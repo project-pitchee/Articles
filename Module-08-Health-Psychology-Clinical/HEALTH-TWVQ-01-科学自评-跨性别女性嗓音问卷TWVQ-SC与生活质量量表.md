@@ -1,6 +1,7 @@
 # 【科学自评】认识跨性别女性嗓音问卷（TWVQ-SC）：评估嗓音对心理与生活质量的真实影响
 
 - **核心文献依据**：Wang, Zhang, Zhang et al. (2022). *A Study on Reliability and Validity of the Simplified Chinese Version of the Trans Woman Voice Questionnaire (TWVQ-SC)*. *Journal of Speech, Language, and Hearing Research (JSLHR)*, 65(9), 3264–3275. DOI: [10.1044/2022_JSLHR-21-00685](https://pubs.asha.org/doi/10.1044/2022_JSLHR-21-00685).
+- **适用人群**：希望摆脱单纯分数的听觉焦虑、从社交沟通与生活质量维度全面评估自身嗓音的跨性别女性。
 - **适用场景**：用户不仅关注 Pitchee 上的物理声学得分，更希望系统评估当前嗓音对自身心理健康、日常社交、职场沟通与性别和谐度的真实生活质量影响。
 - **核心目标**：理解个人报告结局指标（PROM）与客观声学测量的互补关系，进行科学的主观生活质量审视。
 

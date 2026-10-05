@@ -10,29 +10,38 @@ import re
 import json
 import glob
 
-REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-STANDALONE_ARTICLES_DIR = "/Users/dannyfeng/Documents/Articles"
-LOCAL_DOCS_DIR = os.path.join(REPO_ROOT, "Docs", "Voice-Training-Library")
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+if os.path.exists(os.path.join(SCRIPT_DIR, "Module-01-Engine-Rules")):
+    # Running directly inside Articles repository root
+    REPO_ROOT = SCRIPT_DIR
+    LOCAL_DOCS_DIR = SCRIPT_DIR
+    STANDALONE_ARTICLES_DIR = SCRIPT_DIR
+    LIBRARY_DOCS_DIR = SCRIPT_DIR
+    RESOURCES_DIR = SCRIPT_DIR
+else:
+    REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    LOCAL_DOCS_DIR = os.path.join(REPO_ROOT, "Docs", "Voice-Training-Library")
+    STANDALONE_ARTICLES_DIR = os.environ.get("ARTICLES_DIR") or os.path.join(os.path.dirname(REPO_ROOT), "Articles")
 
-DOCS_CANDIDATES = [
-    STANDALONE_ARTICLES_DIR,
-    LOCAL_DOCS_DIR,
-    os.path.join(REPO_ROOT, "Dependencies", "Articles")
-]
+    DOCS_CANDIDATES = [
+        LOCAL_DOCS_DIR,
+        STANDALONE_ARTICLES_DIR,
+        os.path.join(REPO_ROOT, "Dependencies", "Articles")
+    ]
 
-LIBRARY_DOCS_DIR = None
-for cand in DOCS_CANDIDATES:
-    if os.path.exists(cand):
-        md_count = len([f for f in glob.glob(os.path.join(cand, "**", "*.md"), recursive=True) if not f.endswith("README.md")])
-        if md_count == 49:
-            LIBRARY_DOCS_DIR = cand
-            break
+    LIBRARY_DOCS_DIR = None
+    for cand in DOCS_CANDIDATES:
+        if os.path.exists(cand):
+            md_count = len([f for f in glob.glob(os.path.join(cand, "**", "*.md"), recursive=True) if not f.endswith("README.md")])
+            if md_count == 49:
+                LIBRARY_DOCS_DIR = cand
+                break
 
-if not LIBRARY_DOCS_DIR:
-    LIBRARY_DOCS_DIR = LOCAL_DOCS_DIR
+    if not LIBRARY_DOCS_DIR:
+        LIBRARY_DOCS_DIR = LOCAL_DOCS_DIR
 
-RESOURCES_DIR = os.path.join(REPO_ROOT, "Resources", "VoiceTrainingLibrary")
-os.makedirs(RESOURCES_DIR, exist_ok=True)
+    RESOURCES_DIR = os.path.join(REPO_ROOT, "Resources", "VoiceTrainingLibrary")
+    os.makedirs(RESOURCES_DIR, exist_ok=True)
 
 SECTION_ICON_MAP = {
     "一、声学机制与算法原理": "gearshape.2.fill",
@@ -94,6 +103,8 @@ def parse_markdown(filepath):
     )
 
     user_persona = (
+        meta.get("用户痛点") or 
+        meta.get("适用人群") or 
         meta.get("用户困惑") or 
         meta.get("阶段痛点") or 
         meta.get("用户画像") or 
@@ -101,56 +112,18 @@ def parse_markdown(filepath):
         meta.get("常见症状") or 
         meta.get("心理反应") or 
         meta.get("心理现状") or 
-        meta.get("用户痛点") or 
-        meta.get("阶段特征") or 
         meta.get("能力瓶颈") or 
         meta.get("心理根源") or 
-        meta.get("核心成因") or 
-        meta.get("声学机制") or 
-        meta.get("生理机制") or 
-        meta.get("医学诊断") or 
-        meta.get("危险动作") or 
-        meta.get("声学原理") or 
-        meta.get("声学概念") or 
-        meta.get("声学混淆") or 
-        meta.get("声学失衡") or 
-        meta.get("工程定位") or 
-        meta.get("物理现象") or 
-        meta.get("临床基础") or 
-        meta.get("理论来源") or 
-        meta.get("专业角色") or 
-        meta.get("医学铁律") or 
-        meta.get("医学概念") or 
-        meta.get("语言学概念") or 
-        meta.get("社会语言学事实") or 
-        meta.get("运动生理学法则") or 
-        meta.get("生理概念") or 
-        meta.get("系统逻辑") or 
-        meta.get("算法契约") or 
-        meta.get("用户目标") or 
-        meta.get("阶段目标") or 
-        meta.get("核心文献依据") or 
-        meta.get("推荐工具") or 
-        meta.get("核心认知") or 
-        meta.get("核心概念") or 
-        meta.get("适用场景") or 
+        meta.get("阶段特征") or 
+        meta.get("阶段困惑") or 
         ""
     )
 
     core_goal = (
         meta.get("核心目标") or 
         meta.get("阶段目标") or 
-        meta.get("核心诊断") or 
-        meta.get("核心认知") or 
         meta.get("科学真相") or 
-        meta.get("核心概念") or 
-        meta.get("医学诊断") or 
-        meta.get("用户目标") or 
-        meta.get("医学铁律") or 
-        meta.get("声学机制") or 
-        meta.get("声学失衡") or 
-        meta.get("系统逻辑") or 
-        meta.get("行为契约") or 
+        meta.get("核心认知") or 
         ""
     )
 
@@ -315,15 +288,20 @@ def main():
         json.dump(rule_matrix, f, ensure_ascii=False, indent=2)
     print(f"Wrote matching matrix to {matrix_path}")
 
-    # Also write to standalone Articles directory if it exists
-    if os.path.exists(STANDALONE_ARTICLES_DIR):
-        standalone_lib_path = os.path.join(STANDALONE_ARTICLES_DIR, "voice-training-library.json")
-        with open(standalone_lib_path, "w", encoding="utf-8") as f:
-            json.dump(output_payload, f, ensure_ascii=False, indent=2)
-        standalone_mat_path = os.path.join(STANDALONE_ARTICLES_DIR, "voice-rule-matching-matrix.json")
-        with open(standalone_mat_path, "w", encoding="utf-8") as f:
-            json.dump(rule_matrix, f, ensure_ascii=False, indent=2)
-        print(f"Wrote mirror JSON copies to {STANDALONE_ARTICLES_DIR}")
+    # Write mirror JSON copies to Docs/Voice-Training-Library and standalone Articles directory
+    target_mirror_dirs = [LOCAL_DOCS_DIR]
+    if os.path.exists(STANDALONE_ARTICLES_DIR) and os.path.abspath(STANDALONE_ARTICLES_DIR) != os.path.abspath(LOCAL_DOCS_DIR):
+        target_mirror_dirs.append(STANDALONE_ARTICLES_DIR)
+
+    for mdir in target_mirror_dirs:
+        if os.path.exists(mdir):
+            m_lib_path = os.path.join(mdir, "voice-training-library.json")
+            with open(m_lib_path, "w", encoding="utf-8") as f:
+                json.dump(output_payload, f, ensure_ascii=False, indent=2)
+            m_mat_path = os.path.join(mdir, "voice-rule-matching-matrix.json")
+            with open(m_mat_path, "w", encoding="utf-8") as f:
+                json.dump(rule_matrix, f, ensure_ascii=False, indent=2)
+            print(f"Wrote mirror JSON copies to {mdir}")
 
 if __name__ == "__main__":
     main()
