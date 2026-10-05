@@ -17,10 +17,21 @@
 
 ## 二、症状自查与代偿排查
 
+### 新手期典型恶性代偿与体征排查
+1. **“挤卡提音高”代偿排查（Laryngeal Squeeze Check）**：
+   - 食指轻触喉结：尝试发较高音时，喉结是否暴力上顶至下颌骨下方无法动弹？
+   - 颈外肌（胸锁乳突肌、肩胛舌骨肌）是否青筋凸起、坚硬如木？这是 MTD（肌紧张）的最早期危险代偿；
+2. **“假声漏气”代偿排查（Falsetto Air Leakage Check）**：
+   - 是否误将微弱无力的纯假声（M2/Falsetto）当成女性化声音？
+   - 手背放在嘴前 5 厘米处：发声时是否感到大量热气喷射在手背上？大量漏气会导致声门闭合不全、基频检测断续；
+3. **呼吸锁死排查（Chest-Shallow Breathing Check）**：
+   - 镜子前自测：吸气时肩膀与锁骨是否大幅上耸？
+   - 高张力浅呼吸会导致发声瞬间气压过冲，声带受到暴力撞击而本能痉挛收紧。
 
 ---
 
 ## 三、训练动作与实操指南
+
 ### 第一周：只做一件事——彻底找到“喉部无压力”
 - **指标不看**：不看综合分，不看音高；
 - **核心任务**：每天做 3 次 2 分钟的打哈欠叹气法与吹唇（Lip Trill）；
@@ -36,9 +47,7 @@
 
 ---
 
-
----
-
 ## 四、权威文献与延伸参考
+
 - **Vocal Congruence Project**: 《Starting Small: Foundations of Autonomous Voice Exploration》([链接](https://vocalcongruence.org/))
 - **ASHA Practice Portal**: 《Patient-Centered Goal Setting for Beginners》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))

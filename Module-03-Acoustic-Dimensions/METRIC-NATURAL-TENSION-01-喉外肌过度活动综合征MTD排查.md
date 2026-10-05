@@ -47,11 +47,13 @@
 ---
 
 ## 三、训练动作与实操指南
+
 - 若严格执行上述休养 1 周后，喉部异物感与疼痛仍未缓解，请立刻前往三甲医院耳鼻喉科挂号就诊；
 - 进行**频闪动态喉镜检查（Stroboscopy）**，由专业咽喉科医生或嗓音支持专家（SLP）评估声带黏膜与室褶收缩状态。
 
 ---
 
 ## 四、权威文献与延伸参考
+
 - **ASHA Practice Portal**: 《Clinical Evaluation and Treatment of Muscle Tension Dysphonia》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))
 - **University of Sheffield**: 《Tension Recognition, Vocal Fatigue and Pain Relief》([链接](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources))

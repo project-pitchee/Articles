@@ -18,12 +18,20 @@
 
 ## 二、症状自查与代偿排查
 
-参考辛辛那提大学 TruVox 系统的生物反馈训练逻辑：
-
+### 响度代偿与投射障碍排查
+1. **“大声即降调”耦合反射排查（Pitch-Volume Coupling Check）**：
+   - 尝试以平时说话的 2 倍音量朗读短句：观察 Pitchee 实时基频监控；
+   - 基频是否出现剧烈向下断崖式跌落（如从 200 Hz 暴跌至 130 Hz）？这表明大脑在召唤响度时下意识切换回了粗厚 TA 肌主导的男性发声模式；
+2. **“脖颈暴力挤卡”排查（Neck Strain Projection Check）**：
+   - 在试图放大音量时，双手轻抚颈部侧面：胸锁乳突肌是否青筋暴起？喉部是否有明显的勒紧感与憋气感？
+   - 这说明你正在用声带死死硬撞（Glottal Squeeze）来制造虚假音量，会导致极速嗓音疲劳与声带小结隐患；
+3. **电平与信噪比自测（SNR & Level Check）**：
+   - 检查 Pitchee 录音分析页面的响度统计数据：如果有效语音电平中位数低于 -45 dBFS，且与环境底噪的差值小于 12 dB，说明声音能量在出唇前就已被声道损耗殆尽。
 
 ---
 
 ## 三、训练动作与实操指南
+
 ### 训练 1：微音量高基频（High Pitch, Low Volume）
 1. 将音高锁定在你的女性化目标频段（如 200 Hz）；
 2. 极其轻柔地发声，音量小到如同耳语一般（但应该是实声振动，见前面章节）；
@@ -38,9 +46,7 @@
 
 ---
 
-
----
-
 ## 四、权威文献与延伸参考
+
 - **TruVox (University of Cincinnati)**: 《Decoupling Pitch and Loudness in Voice Production》([链接](https://ceas5.uc.edu/transvoice))
 - **ASHA Practice Portal**: 《Projection and Resonance Optimization in Large Spaces》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))

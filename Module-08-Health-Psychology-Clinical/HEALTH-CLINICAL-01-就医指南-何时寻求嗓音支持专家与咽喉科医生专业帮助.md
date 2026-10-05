@@ -47,6 +47,7 @@
 ---
 
 ## 四、权威文献与延伸参考
+
 - **ASHA Practice Portal**: 《Clinical Pathways and Interdisciplinary Care in Affirming Voice》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))
 - **UCSF Transgender Care**: 《Voice and Speech Therapy Clinical Guidelines》([链接](https://transcare.ucsf.edu/voice-and-speech-therapy))
 - **WPATH SOC8**: 《Standards of Care for the Health of Transgender and Gender Diverse People - Voice and Communication》

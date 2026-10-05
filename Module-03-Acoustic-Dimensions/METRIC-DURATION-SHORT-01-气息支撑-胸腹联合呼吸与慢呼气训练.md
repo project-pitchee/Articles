@@ -21,7 +21,22 @@
 
 ## 二、症状自查与代偿排查
 
-### 练习 1：发“Sssss”计时挑战
+### 录音时长不足与呼吸代偿自查排查
+1. **短促浅呼吸自查（Shallow Gasp Check）**：
+   - 录音前吸气时观察镜中的自己：肩膀是否耸起、锁骨是否高抬、胸口是否大幅起伏？
+   - 伴随吸气是否有急促吸气喘鸣声（Stridor）？高位浅呼吸会导致肺容积仅充盈 30%，难以支撑一句完整的话；
+2. **手背气流漏气自测（Hand-on-Mouth Airflow Leakage Check）**：
+   - 将手背置于唇前 3–5 厘米处朗读：手背是否感受到如同狂风般的强烈气流冲击？
+   - 若气流猛烈，说明声门闭合无力，肺内气体在 2–3 秒内被大量逃逸排空，导致语音时长不足 5 秒；
+3. **“拼命憋气赶字”代偿排查（Hurried Phonation / Panic Rush Check）**：
+   - 是否因为害怕气不够用，而把 10 个字的短句以 3 倍语速在 2 秒内草草念完？
+   - 赶字会破坏正常的音高曲线与共鸣包络，导致有效语音时长（Speech Seconds）远低于阈值。
+
+---
+
+## 三、训练动作与实操指南
+
+### 练习 1：发“Sssss”横膈膜抗阻计时挑战
 1. 采用腹式吸气，腹部向外像气球一样充盈；
 2. 牙齿闭合，匀速吐出极其细长、平稳的蛇形嘶嘶声：“Sssssssss……”；
 3. 拿起秒表计时：
@@ -29,10 +44,6 @@
    - 进阶目标：轻松达到 25–30 秒；
 4. 这个动作能强效训练横膈膜的“缓慢刹车能力”。
 
-
----
-
-## 三、训练动作与实操指南
 ### 练习 2：谢菲尔德无声呼吸法（Sheffield Silent Breathing Exercise）
 - **生理目标**：根除耸肩、锁骨抬高的高张力胸式浅呼吸，阻断颈部肌肉过度紧张代偿；
 - **动作要领**：
@@ -40,18 +51,14 @@
   2. 缓慢通过鼻腔吸气，完全不发出任何喘气声（Silent Inhale）；感受腹部自然向外膨胀，而胸口与锁骨完全不上抬；
   3. 呼气时腹部缓慢平稳回收，体会下腹部像弹簧一样为发声提供恒定、持久的微气压支撑。
 
-### 练习 3：手背温和气流检测（Hand-on-Mouth Airflow Check）
-- 参考 RLE.wiki 气流发声指引：将一只手的手背平放于嘴唇前方 3–5 厘米处；
-- 在朗读测试句子时，感受手背上拂过的呼气微气流：
-  - 若感觉气流如狂风暴雨般猛烈冲击手背，说明声门严重漏气，肺气在短时间内被耗尽；
-  - 正确的状态是手背仅感受到温热、细密、连续的微风，声带与气息达成完美的声阻抗平衡；
+### 练习 3：手背温和气流控制与从容朗读
+- 将手背平放于嘴唇前方 3–5 厘米处朗读测试文本；
+- 保持手背仅感受到温热、细密、连续的微风，声带与气息达成完美的声阻抗平衡；
 - 确保朗读过程从容优雅，总语音时长稳定达到 6–9 秒，轻松越过 5 秒有效录音门槛。
 
 ---
 
-
----
-
 ## 四、权威文献与延伸参考
+
 - **University of Sheffield**: 《Breath Support and Respiratory Kinematics》([链接](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources))
 - **ASHA Practice Portal**: 《Respiratory Function in Voice Production》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))

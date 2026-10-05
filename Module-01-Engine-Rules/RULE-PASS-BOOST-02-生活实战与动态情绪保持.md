@@ -40,11 +40,13 @@
 ---
 
 ## 三、训练动作与实操指南
+
 1. **点单与问路微挑战**：在便利店或咖啡厅，尝试使用一句固定高位开场白（“你好，请问有常温水吗？”）；
 2. **电话沟通前置预热**：接电话前 3 秒，先在心里默哼一个高位蜂鸣音（“Mmm~”），将共鸣腔体固定在明亮位后再开口，彻底避免“喂”的一声掉回深沉原声。
 
 ---
 
 ## 四、权威文献与延伸参考
+
 - **Sheffield Trans Voice Café**: 《Non-Verbal Communication, Laughs and Coughs》([链接](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources))
 - **Vocal Congruence Project**: 《Real-World Vocal Resilience and Social Safety》([链接](https://vocalcongruence.org/))

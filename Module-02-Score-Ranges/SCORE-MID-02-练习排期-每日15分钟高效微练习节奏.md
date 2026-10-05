@@ -42,6 +42,7 @@
 ---
 
 ## 三、训练动作与实操指南
+
 当你遇到以下任何一条信号时，立刻关闭 App 并进入“嗓音禁声休息”：
 - 持续清嗓冲动；
 - 吞咽时喉结上方有钝痛或干燥刺痛；
@@ -51,5 +52,6 @@
 ---
 
 ## 四、权威文献与延伸参考
+
 - **ASHA Practice Portal**: 《Voice Ergonomics and Practice Dosage in Voice Therapy》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))
 - **University of Sheffield**: 《Daily Vocal Routine and Vocal Warm-up/Cool-down Protocol》([链接](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources))

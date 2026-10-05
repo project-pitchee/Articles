@@ -19,12 +19,22 @@
 
 ## 二、症状自查与代偿排查
 
-汉语是声调语言（四声），许多练习者常面临困惑：“单字练习时音高很稳，但一读带有三声、四声的连续句子，声音就会狠狠掉回低沉男声”。参考 RLE.wiki（Catherina Grace）与谢菲尔德大学嗓音工作坊的实战体系，声调与句子语调走向（Intonation Contour）完全可以和谐共存：
-
+### 机械音与语调掉频自查排查
+1. **平直机械音自测（Monotone Robotic Quality Check）**：
+   - 检查 Pitchee 录音分析页面的音高标准差（Pitch Standard Deviation）：如果数值长期 < 12 Hz，说明音调近乎一条直线，缺乏人类日常交谈的情感起伏；
+   - 听感上是否像早教机、车载导航或新闻联播照本宣科？
+2. **“三声四声深渊坠落”排查（Third/Fourth Tone Pitfall Check）**：
+   - 朗读带有重度去声或上声的词组（如“电脑”、“下课”、“很大”）：
+   - 尾字是否直接被重力砸回 120–130 Hz 的男声深坑，并伴随声带刺耳的气泡音破裂？
+   - 这是没有建立“声调在女性高基准线上相对波动”概念的典型肌肉代偿；
+3. **句末断崖式坠落排查（Sentence-Ending Collapse Check）**：
+   - 句子前半截音高尚在 200 Hz，但每到一句话的最后两三个字，气流立刻溃散、音调瞬间腰斩掉落；
+   - 说明呼气末期缺乏膈肌稳压支撑，喉肌在句尾提前“罢工”复位。
 
 ---
 
 ## 三、训练动作与实操指南
+
 ### 练习 1：汉语四声女性化高低控制矩阵（Mandarin Tone Adaptation）
 将单字声调与你的目标基调（如 190–210 Hz）对齐，建立不掉频的肌肉记忆：
 1. **第一声（阴平 55）**：音高稳定在略高于基调的水平频段（如 205–215 Hz），保持平稳拉长，气息均匀，不忽高忽低；
@@ -52,10 +62,8 @@
 
 ---
 
-
----
-
 ## 四、权威文献与延伸参考
+
 - **RLE Wiki / Catherina Grace**: 《汉语四声练习、日用语与基调哼鸣》([链接](https://rle.wiki/others/voice-feminisation-exercise/))
 - **University of Sheffield**: 《Intonation, Inflection and Thinking Sounds Workshop》([链接](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources))
 - **ASHA Practice Portal**: 《Inflection and Pitch Dynamism in Gender Affirmation》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))

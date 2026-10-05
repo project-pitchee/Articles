@@ -53,5 +53,6 @@
 ---
 
 ## 四、权威文献与延伸参考
+
 - **ASHA Practice Portal**: 《Circumlaryngeal Manual Therapy and Laryngeal Massage Protocol》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))
 - **University of Sheffield**: 《Voice Care and Physical Tension Release Guidelines》([链接](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources))

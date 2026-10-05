@@ -40,11 +40,13 @@
 ---
 
 ## 三、训练动作与实操指南
+
 - ❌ **误区一：吸管插进水杯底部**。阻力过大会导致用户本能地憋气压喉，建议严格保持在水下 1–2 cm；
 - ❌ **误区二：鼻孔悄悄漏气**。如果呼气时大量气体从鼻腔溜走，口咽腔的反压将荡然无存。可用手指捏住鼻孔进行自查，若音色与水泡毫无变化，说明封闭良好。
 
 ---
 
 ## 四、权威文献与延伸参考
+
 - **Titze, I. R.** (2006). *Voice Training and Therapy With a Semi-Occluded Vocal Tract: Rationale and Scientific Underpinnings.*
 - **RLE Wiki**: 《半封闭声道与声带重量调节》([链接](https://rle.wiki/others/voice-feminisation-exercise/))

@@ -40,5 +40,6 @@
 ---
 
 ## 四、权威文献与延伸参考
+
 - **Vocal Congruence Project**: 《Navigating Dysphoria and Building Vocal Congruence》([链接](https://vocalcongruence.org/))
 - **Wang 等 (2022)**: 《TWVQ-SC 嗓音与心理健康关联分析》([链接](https://pubs.asha.org/doi/10.1044/2022_JSLHR-21-00685))

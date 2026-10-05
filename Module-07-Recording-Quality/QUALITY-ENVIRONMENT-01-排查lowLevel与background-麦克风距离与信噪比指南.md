@@ -21,10 +21,21 @@ Pitchee 的底层推理模型（ECAPA 特征提取与 SwiftF0）是直接在无�
 
 ## 二、症状自查与代偿排查
 
+### 测试环境底噪与设备拾音自查排查
+1. **室内声源底噪排查（Acoustic Background Noise Check）**：
+   - 屏住呼吸静止 5 秒，仔细聆听周围空间：是否有运行中的空调风道声、电脑主机散热风扇声、窗外主干道车流低频轰鸣？
+   - 这些低频持续底噪的声压级常常达到 40–55 dB，极易抹杀真实语音的谐噪比（HNR）；
+2. **“空旷房间回响（Flutter Echo）”自测**：
+   - 在测试位置双手用力拍击一次：是否能听到清脆空洞、持续超过 0.5 秒的金属般颤动回音？
+   - 若在空旷瓷砖客厅或浴室，反射声波会严重扰乱声谱包络；建议移步至有窗帘、地毯或床铺的卧室；
+3. **拾音遮挡与握持方式排查（Microphone Obstruction Check）**：
+   - 检查双手握持手机的方式：小拇指或保护壳边框是否无意中挡住了 iPhone 底部的麦克风进音小孔？
+   - 保护壳孔位不准或手指遮挡会形成严重的声学低通滤波，导致录音电平锐减 10 dB 以上。
 
 ---
 
 ## 三、训练动作与实操指南
+
 ### 步骤 1：麦克风距离与摆放角度黄金法则
 - **最佳物理距离：15–20 厘米（约一掌半展开长度）**；
 - **倾角避免正对迎风面**：
@@ -41,9 +52,7 @@ Pitchee 的底层推理模型（ECAPA 特征提取与 SwiftF0）是直接在无�
 
 ---
 
-
----
-
 ## 四、权威文献与延伸参考
+
 - **Pitchee 官方文档**: 《引导练习、复测比较与可信趋势 - 录音质量门槛》([链接](https://github.com/project-pitchee/Pitchee-iOS/blob/main/Docs/Guided-Practice.md))
 - **TruVox (University of Cincinnati)**: 《Microphone Placement and Audio Calibration Guidelines》([链接](https://ceas5.uc.edu/transvoice))

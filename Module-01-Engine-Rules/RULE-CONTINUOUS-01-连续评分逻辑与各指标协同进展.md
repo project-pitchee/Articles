@@ -48,5 +48,6 @@ $$\text{Base} = \text{Final} = \min\left(100, \max\left(0, 60 + 25\,d_{F_0} + 15
 ---
 
 ## 四、权威文献与延伸参考
+
 - **Pitchee 官方文档**: 《iOS-男性向声音-逻辑与判定算法》([链接](https://github.com/project-pitchee/Pitchee-iOS/blob/main/Docs/iOS-%E7%94%B7%E6%80%A7%E5%90%91%E5%A3%B0%E9%9F%B3-%E9%80%BB%E8%BE%91%E4%B8%8E%E5%88%A4%E5%AE%9A%E7%AE%97%E6%B3%95.md))
 - **ASHA Practice Portal**: 《Acoustic Measures and Clinical Targets》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))

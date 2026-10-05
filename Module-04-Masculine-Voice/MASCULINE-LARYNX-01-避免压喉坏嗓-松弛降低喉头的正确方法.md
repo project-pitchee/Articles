@@ -47,5 +47,6 @@
 ---
 
 ## 四、权威文献与延伸参考
+
 - **ASHA Practice Portal**: 《Safe Resonance and Pitch Modification for Transmasculine Clients》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))
 - **Grace Catherina**: 《避免低喉位肌肉代偿与发声挤卡》([链接](https://voice.cntt.uk/))

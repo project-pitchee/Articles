@@ -37,11 +37,13 @@
 ---
 
 ## 三、训练动作与实操指南
+
 - 在 Pitchee 中，中性区录音可能获得 70–80 分左右的综合评价（因 F0 处于中性边界）；
 - 切记不要因为未能拿到 95 分而焦虑硬撑。如果这个音高区间是让你生理最舒服、全天说几万字都不会疲劳的平衡点，那么它就是你最宝贵的可持续声音财富！
 
 ---
 
 ## 四、权威文献与延伸参考
+
 - **Vocal Congruence Project**: 《Pitch Isn't Everything: Multidimensional Voice》([链接](https://vocalcongruence.org/))
 - **ASHA Practice Portal**: 《Prosodic and Non-segmental Features in Affirming Voice》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))

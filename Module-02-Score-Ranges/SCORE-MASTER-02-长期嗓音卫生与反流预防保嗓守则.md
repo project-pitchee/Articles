@@ -35,11 +35,13 @@
 ---
 
 ## 三、训练动作与实操指南
+
 - **抗组胺药（鼻炎药/感冒药）**：多数抗过敏药具有强烈的抗胆碱能效应，会导致咽喉黏膜严重干燥，服药期间必须加倍补水；
 - **清凉润喉糖的陷阱**：含有强薄荷醇（Menthol）的润喉糖会麻痹声带感觉神经，让你在喉部受伤时失去痛觉预警而过度用嗓；建议选择温和的甘草或纯蜂蜜水替代。
 
 ---
 
 ## 四、权威文献与延伸参考
+
 - **ASHA Practice Portal**: 《Voice Hygiene Recommendations and Hydration Guidelines》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))
 - **University of Sheffield**: 《Voice Care, Steaming and Environmental Health》([链接](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources))

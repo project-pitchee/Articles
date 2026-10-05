@@ -35,6 +35,7 @@
 ---
 
 ## 三、训练动作与实操指南
+
 使用 Pitchee 录音，同一句话以三个挡位依次朗读：
 > “你好，我来确认一下今天的会议日程。”（分别以一挡、二挡、三挡朗读）
 
@@ -43,5 +44,6 @@
 ---
 
 ## 四、权威文献与延伸参考
+
 - **Vocal Congruence Project**: 《Vocal Flexibility and Gender Fluid Expression》([链接](https://vocalcongruence.org/))
 - **跨与多元性别档案**: 《声音作为流动的画笔》([链接](https://digital.transchinese.org/))

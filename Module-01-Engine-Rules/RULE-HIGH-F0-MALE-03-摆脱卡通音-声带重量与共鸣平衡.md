@@ -41,6 +41,7 @@
 ---
 
 ## 三、训练动作与实操指南
+
 请使用 Pitchee 录音并开启同句 A/B 复测，轮流朗读：
 > “你好，我想咨询一下今天下午的安排。”
 
@@ -51,5 +52,6 @@
 ---
 
 ## 四、权威文献与延伸参考
+
 - **TransVoiceLessons / Zhea**: 《Size and Weight Coordination in Transgender Voice》
 - **Vocal Congruence Project**: 《Finding Balance: Beyond the Caricature》([链接](https://vocalcongruence.org/))

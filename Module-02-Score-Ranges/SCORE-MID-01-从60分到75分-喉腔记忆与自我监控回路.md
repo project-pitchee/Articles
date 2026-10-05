@@ -35,6 +35,7 @@
 ---
 
 ## 三、训练动作与实操指南
+
 利用 Pitchee 的引导练习 A/B 机制：
 1. **Take A（基线录音）**：用你当前最习惯的声线自然朗读短句，记录下当前的各项指标；
 2. **微调参数，只改一个变量录制 Take B**：
@@ -46,5 +47,6 @@
 ---
 
 ## 四、权威文献与延伸参考
+
 - **University of Sheffield**: 《Acoustic and Proprioceptive Feedback in Voice Training》([链接](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources))
 - **TruVox**: 《Chanting and Auditory Biofeedback Loops》([链接](https://ceas5.uc.edu/transvoice))

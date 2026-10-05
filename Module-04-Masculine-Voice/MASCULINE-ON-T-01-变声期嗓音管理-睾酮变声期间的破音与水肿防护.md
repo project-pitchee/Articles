@@ -21,28 +21,37 @@
 
 ## 二、症状自查与代偿排查
 
-### 铁律 1：坚决不强飙高音（Do Not Force the Lost Range）
-- 随着声带增厚，你的高音区（Falsetto）会暂时被严重压缩甚至彻底消失；
-- 切忌因恐惧而用力使劲撕扯喉咙去“找回高音”，这极易诱发声带黏膜下血肿；顺其自然接纳新沉底的音区。
-
+### 睾酮变声期破音与水肿体征排查
+1. **破音与失控滑脱自查（Voice Cracks & Pitch Breaks Check）**：
+   - 说话时是否频繁发生音调不受控制地突然尖叫或断崖式无声？
+   - 这表明增厚的甲杓肌尚未与大脑皮层运动指令完全同步，切忌在破音发生时强行使劲撕扯喉咙；
+2. **声带急性充血与水肿排查（Vocal Fold Edema Check）**：
+   - 晨起或说话 10 分钟后：喉部是否有发胀、发热、异物感或吞咽口水时的沉重钝痛？
+   - 声音是否出现持续的沙哑、低沉磨砂感？这说明变声期声带正处于血管增生与炎性水肿高敏期；
+3. **“强飙失去的高音”恶性代偿排查（High Range Forcing Check）**：
+   - 是否因为恐惧音域变窄，而频繁用力挤喉试图强行唱出过去的假声/高音？
+   - 强飙失去的高音区极易导致声带黏膜下微血管破裂出血，引发器质性损伤。
 
 ---
 
 ## 三、训练动作与实操指南
-### 铁律 2：每日吸管水泡理疗（SOVTE Therapy）
+
+### 护嗓实操一：每日 SOVTE 吸管水泡水力理疗（SOVTE Water Therapy）
 - 吸管水中发声对变声期声带具有不可替代的水力按摩效应：
   - 声门上反压能温和帮助充血水肿的声带排出多余间质积液；
   - 每天早晚各做 3 分钟吸管水泡，能显著减少全天的破音频次。
 
-### 铁律 3：避开声带水肿诱因
-- 睾酮会导致皮脂腺分泌旺盛与体内水分重分布，建议加倍饮水；
-- 戒烟、远离二手烟，二手烟雾中的焦油颗粒会与水肿的声带黏膜发生严重炎性反应，造成永久性粗糙砂质音。
+### 护嗓实操二：中低音区轻声滑音滋养（Gentle Middle-Low Glides）
+- 每天做 2 组自中音至低音的轻柔滑音，帮助大脑建立对新厚声带重量的本体感觉；
+- 顺其自然接纳新沉底的音区，严禁强飙高音。
 
----
-
+### 护嗓实操三：水合管理与物理防刺激守则（Systemic Hydration & Irritant Avoidance）
+- 睾酮会导致皮脂腺分泌旺盛与体内水分重分布，每天需饮用至少 2000 ml 常温水；
+- 严格戒烟并远离二手烟，二手烟雾中的焦油颗粒会与水肿声带发生剧烈炎性反应。
 
 ---
 
 ## 四、权威文献与延伸参考
+
 - **ASHA Practice Portal**: 《Voice Masculinization During Testosterone Therapy: Clinical Considerations》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))
 - **University of Sheffield**: 《Managing Voice Drops and Vocal Breaks in Trans Men》([链接](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources))

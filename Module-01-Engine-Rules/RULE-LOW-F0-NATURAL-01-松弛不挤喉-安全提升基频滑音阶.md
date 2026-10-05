@@ -51,12 +51,14 @@ Pitchee 的女性化评分模型以声学生理基准为依据：
 ---
 
 ## 三、训练动作与实操指南
+
 - 向上拓展音高时，如出现声带干燥、咳嗽或声音沙哑，说明声带受到了过度摩擦，必须立即降回舒适区休息；
 - 记住：**宁可保持 59 分的健康松弛，也绝不为了追求 80 分而去挤捏声带！** 音高的提升是肌腱弹性的渐进适应过程。
 
 ---
 
 ## 四、权威文献与延伸参考
+
 - **RLE Wiki / Catherina Grace**: 《基于医学研究的嗓音女性化练习 - 找到发声位置与提高基调》([链接](https://rle.wiki/others/voice-feminisation-exercise/))
 - **TruVox (University of Cincinnati)**: 《Pitch Range Exploration & Visual Feedback》([链接](https://ceas5.uc.edu/transvoice))
 - **TransNavi**: 《Step-by-step Pitch Elevation without Strain》([链接](https://transnavi.jp/en/voice/))

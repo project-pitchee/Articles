@@ -19,10 +19,21 @@
 
 ## 二、症状自查与代偿排查
 
+### 声音单薄与声门无力自查
+1. **穿透力与信噪比自测（Acoustic Projection & Penetration Check）**：
+   - 在略有背景杂音的房间（如开着风扇或轻微音乐）自测：说话是否立刻变得模糊不清、需要听众费力辨识？
+   - 手机录音波形是否极细、峰值几乎无法突破 -24 dBFS？
+2. **“捏嗓纸片音”代偿排查（Squeezed-Thin Constriction Check）**：
+   - 喉部触诊：下巴底下是否向内紧缩抠进颈部？
+   - 喉咙深处是否有干燥、磨擦感或轻微喘不上气的窒息感？这说明是在用机械挤瘪声道管径来制造单薄假象；
+3. **声带接触商不足自查（Closed Quotient Deficiency）**：
+   - 发一个延长的“啊”：声音是否缺乏实音核心（Acoustic Core），听起来像悬浮在半空中的轻薄烟雾？
+   - 若出现这种现象，说明声门闭合无力，声带振动仅局限于最边缘的一层微薄黏膜，缺乏足够的质量支撑。
 
 ---
 
 ## 三、训练动作与实操指南
+
 ### 练习 1：胸腹抗阻蜂鸣（Supported Resonant Hum）
 1. 轻轻发声“/m/”；
 2. 在保持口腔前部明亮震颤的同时，下腹肌群施加一丝微小的向内微托力量；
@@ -38,9 +49,7 @@
 
 ---
 
-
----
-
 ## 四、权威文献与延伸参考
+
 - **University of Sheffield**: 《Vocal Weight, Volume and Projection Balance》([链接](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources))
 - **ASHA Practice Portal**: 《Vocal Quality and Loudness Dynamics》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))

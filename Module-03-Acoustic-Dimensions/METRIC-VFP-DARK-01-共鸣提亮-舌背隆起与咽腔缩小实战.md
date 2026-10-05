@@ -18,10 +18,21 @@
 
 ## 二、症状自查与代偿排查
 
+### 共鸣沉暗与舌根沉溺自查
+1. **下颌后缩与舌根后倒排查（Retracted Tongue Root Check）**：
+   - 手指轻触下巴与舌骨之间的三角区（舌骨上肌群）：发声时该区域是否大幅凸起变硬、向下挤压？
+   - 若变硬，说明舌根正在向后向下沉溺，把会厌软骨向后推，将咽腔变成了一个沉闷的低频大瓮；
+2. **“大体型”听感自测（Vocal Tract Size Perception）**：
+   - 回听录音：声音听起来像不像一个身高两米的人捏着嗓子假扮尖细声音？
+   - 这种“暗沉底色 + 勉强高调”的撕裂感，是共鸣腔体体型（VFP / R1）未对齐的典型症状；
+3. **元音 /i/ 与 /a/ 的共鸣落差自查（Vowel Resonance Disparity）**：
+   - 发 /i/ 时声音尚且明亮，但一旦发 /a/ 或 /o/，声音立刻坠回男声低音区；
+   - 说明尚未掌握在开元音中保持高舌背与缩短后咽腔的技巧。
 
 ---
 
 ## 三、训练动作与实操指南
+
 ### 练习 1：“高舌背贴上腭磨牙”（Molar Contact Technique）
 1. 慢慢张开嘴，感受上颌左右两侧最靠里的大磨牙；
 2. 试着将舌体两侧边缘向上翻起，轻轻贴住两侧上磨牙的内侧牙面；
@@ -41,10 +52,8 @@
 
 ---
 
-
----
-
 ## 四、权威文献与延伸参考
+
 - **Grace Catherina**: 《咽腔形态与元音色彩学》([链接](https://voice.cntt.uk/))
 - **TruVox (University of Cincinnati)**: 《Visual-Acoustic Biofeedback for Vocal Tract Resonance Modification》([链接](https://ceas5.uc.edu/transvoice))
 - **TransNavi**: 《Resonance Adjustment and Larynx Anchoring》([链接](https://transnavi.jp/en/voice/))

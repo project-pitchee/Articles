@@ -22,10 +22,21 @@
 
 ## 二、症状自查与代偿排查
 
+### 男性向发声典型危险代偿与体征排查
+1. **“暴力下压喉结”代偿排查（Forced Laryngeal Depression Check）**：
+   - 用手指轻轻触碰喉结下方及下颌角区域：发声时是否咬紧牙关、下巴向下死死硬卡喉结？
+   - 舌骨下肌群（胸骨舌骨肌、肩胛舌骨肌）是否硬如磐石、吞咽时出现剧烈阻滞与酸痛？这是典型的压喉 MTD 代偿；
+2. **“重度气泡音硬塞”排查（Excessive Vocal Fry Check）**：
+   - 是否为了营造低沉感，整段话都沉溺在断续破碎的“气泡音（Vocal Fry）”或破风声中？
+   - 气泡音缺乏声门下压和黏膜完整振动，既不能在生活中清晰传音，还会导致声带边缘充血水肿；
+3. **胸壁物理震颤自测（Chest Vibration Self-Check）**：
+   - 掌心平贴在胸骨柄（Sternum）正中央：发低音时手掌是否能清晰感受到如同手机震动般的胸壁共鸣？
+   - 若毫无震颤感，说明共鸣仍然被锁死在狭窄的口腔中，声道容积并未真正扩大。
 
 ---
 
 ## 三、训练动作与实操指南
+
 ### 练习 1：深呼吸“下沉开窗”（Inhalation Laryngeal Lowering）
 1. 慢慢通过口腔做一次深吸气（如同闻一口极其清凉的薄荷空气）；
 2. 摸摸喉结：你会发现喉结随着吸气动作非常自然、松弛地下沉到了脖子底部；
@@ -41,9 +52,7 @@
 
 ---
 
-
----
-
 ## 四、权威文献与延伸参考
+
 - **Pitchee 官方文档**: 《iOS-男性向声音-逻辑与判定算法》([链接](https://github.com/project-pitchee/Pitchee-iOS/blob/main/Docs/iOS-%E7%94%B7%E6%80%A7%E5%90%91%E5%A3%B0%E9%9F%B3-%E9%80%BB%E8%BE%91%E4%B8%8E%E5%88%A4%E5%AE%9A%E7%AE%97%E6%B3%95.md))
 - **ASHA Practice Portal**: 《Voice Masculinization Considerations and Targets》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))

@@ -22,10 +22,21 @@
 
 ## 二、症状自查与代偿排查
 
+### 男性向语调代偿与习惯体征排查
+1. **习惯性疑问句末上扬排查（Upspeak / High Rising Terminal Check）**：
+   - 朗读普通陈述句：“今天我们要完成这个项目。” 回听录音：句尾最后一个字是否不由自主地上翘漂高？
+   - 习惯性 Upspeak 会在听众潜意识中营造不确定、寻求认可与幼态女性化心理暗示；
+2. **重音音调跳跃代偿排查（Pitch-Spike Stress Check）**：
+   - 观察 Pitchee 实时基频监控曲线：当你试图加重语气、强调某个核心词汇时，曲线是否瞬间出现一个耸立的尖锐脉冲？
+   - 男性化强调主要依赖腹肌发力推动气流带来的动态响度与时长延伸，而非音调瞬间飙高；
+3. **语速与轻声拖音排查（Trailing Off Vowel Elongation Check）**：
+   - 检查句尾是否有轻柔的气息拖尾或鼻音延长（如“嗯~”、“呢~”）；
+   - 男性向言语模式更倾向于咬字收尾利落断开、句尾音高稳定落进胸骨低音区。
 
 ---
 
 ## 三、训练动作与实操指南
+
 ### 练习 1：“句尾锚定胸腔砸地”训练
 对比朗读：
 - ❌ **上扬模式（偏女性化）**：“明天下午两点见哦~ ↗”（尾字挑高）；
@@ -39,9 +50,7 @@
 
 ---
 
-
----
-
 ## 四、权威文献与延伸参考
+
 - **University of Sheffield**: 《Masculine Intonation and Non-Verbal Communication》([链接](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources))
 - **ASHA Practice Portal**: 《Communication Characteristics in Voice Masculinization》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))

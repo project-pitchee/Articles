@@ -19,12 +19,21 @@
 
 ## 二、症状自查与代偿排查
 
-针对 iPhone 设备麦克风的物理特性与汉语发音特点，推荐以下声学录音优化规范：
-
+### 削波失真与喷麦体征自查排查
+1. **音频回听破音自查（Auditory Clipping Distortion Check）**：
+   - 戴上耳机回听本次录音：在发 /p/、/t/、/k/ 或情绪激动处，是否能听到清脆刺耳的“噼啪”爆音或噼啪电流杂音？
+   - 这表明音频采样点的瞬态能量已经击穿了模拟/数字转换器（ADC）的动态上限；
+2. **手机手持姿态与送气喷口排查（Device Holding Angle Check）**：
+   - 自查录音瞬间的握持姿势：手机底部麦克风拾音孔是否正对着嘴唇水平冲口（距离 < 10 厘米）？
+   - 在汉语发音（如“皮、破、特、科”）时，嘴唇喷出的强烈冲击气流是否直接撞击在麦克风振膜上引发物理过载？
+3. **“以吼代声”的声带硬碰撞排查（Loudness Strain Check）**：
+   - 检查发声时的嗓音状态：是否为了让录音“显得大声”，而在句首拼命用嗓门大吼、硬性撞击声门（Hard Glottal Attack）？
+   - 这种发声方式不仅容易触发数字削波，还会迅速造成声带黏膜充血水肿。
 
 ---
 
 ## 三、训练动作与实操指南
+
 ### 要领 1：麦克风 45 度离轴倾角放置（45-Degree Off-Axis Placement）
 - **iPhone 物理拾音孔分布**：iPhone 主麦克风位于机身底部边框两侧（扬声器与充电口旁），辅助降噪麦克风位于顶部听筒及后置摄像头旁；
 - **倾角摆位法则**：严禁将手机底部拾音孔正对嘴唇前方！正确的姿势是将手机倾斜 **30–45 度角**（斜向下或略微偏向侧面），让嘴唇呼出的高速气流从麦克风侧面滑过，而不是正面垂直冲击振膜；
@@ -46,9 +55,7 @@
 
 ---
 
-
----
-
 ## 四、权威文献与延伸参考
+
 - **Pitchee 官方文档**: 《引导练习、复测比较与可信趋势 - 录音质量规则》([链接](https://github.com/project-pitchee/Pitchee-iOS/blob/main/Docs/Guided-Practice.md))
 - **ASHA Practice Portal**: 《Acoustic Instrumentation, Distance and Recording Quality Standards》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))

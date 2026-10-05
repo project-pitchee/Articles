@@ -22,10 +22,21 @@
 
 ## 二、症状自查与代偿排查
 
+### 听辨迷茫与听觉疲劳自查排查
+1. **认知过载与听觉钝化自测（Auditory Fatigue Check）**：
+   - 连续听自己的录音超过 5 次后，耳朵是否开始“失真”，觉得怎么听都不对劲、甚至越听越反感？
+   - 这属于典型的人耳感知适应与感觉神经疲劳，此时必须立刻摘下耳机、休息 15 分钟后再行听辨；
+2. **“情绪评价替代客观参数”排查（Emotional Bias Overwriting Acoustics）**：
+   - 当你听 Take A 和 Take B 时，脑海里是否只在打转“好听/难听”、“像/不像”，而不是拆解“音高是高了还是低了”、“共鸣是亮了还是暗了”？
+   - 情绪二元论是导致频繁选择“无法判断”的心理根源，需要将注意力强制锚定在单一声学维度上；
+3. **播放环境失真排查（Playback Distortion Check）**：
+   - 自查试听设备：是否正在使用手机底部的微型单声道扬声器直接外放？
+   - 手机扬声器会严重砍掉 150 Hz 以下的低频并人为抬升 2000 Hz 刺耳高频，极易误导听感；建议佩戴中性平直的有线耳机回听。
 
 ---
 
 ## 三、训练动作与实操指南
+
 ### 阶段 1：声带重量（Weight）对比听辨
 找两段录音或自己做对比：
 - **声音样本 1**：沉重、结实的粗嗓大喊；
@@ -47,9 +58,7 @@
 
 ---
 
-
----
-
 ## 四、权威文献与延伸参考
+
 - **Vocal Congruence Project**: 《Developing Critical Listening and Self-Attunement》([链接](https://vocalcongruence.org/))
 - **University of Sheffield**: 《Ear Training and Perceptual Exercises for Affirming Voice》([链接](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources))

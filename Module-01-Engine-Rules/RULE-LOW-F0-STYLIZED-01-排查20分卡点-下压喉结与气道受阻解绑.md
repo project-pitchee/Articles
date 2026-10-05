@@ -53,5 +53,6 @@
 ---
 
 ## 四、权威文献与延伸参考
+
 - **ASHA Practice Portal**: 《Etiology and Management of Muscle Tension Dysphonia》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))
 - **Grace Catherina**: 《嗓音学习指南》第三版：喉肌代偿排查与基础声门重构 ([链接](https://voice.cntt.uk/))

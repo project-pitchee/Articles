@@ -18,6 +18,21 @@
 
 ## 二、症状自查与代偿排查
 
+### 音高不稳定与气流失衡自查
+1. **长音平稳度自测（Sustained Vowel Pitch Drift Check）**：
+   - 打开 Pitchee 实时监控或录音：深吸气后平稳发出单音 /a/ 保持 8 秒；
+   - 观察音高是否出现波浪式漂移、忽高忽低（标准差 > 20 Hz），或者在中途发生卡顿破音；
+2. **“以喉代气”代偿排查（Laryngeal Compensation for Breath）**：
+   - 当一口气快要用尽时，喉咙是否突然收紧、下巴前伸，试图通过死死掐住声门来勉强维系音高？
+   - 这表明缺乏声门下压稳压支撑，喉肌在过度代偿透支；
+3. **呼吸模式排查（Clavicular Breathing Check）**：
+   - 单手放在胸前锁骨，另一手放在肚脐上方；
+   - 吸气时若是胸口和肩膀先大幅耸起、小腹内缩，说明处于高张力胸式反向呼吸，气流极易骤起骤降。
+
+---
+
+## 三、训练动作与实操指南
+
 ### 步骤 1：平躺“书籍重压”感知（Book on Belly）
 1. 晚上平躺在平整床面上，在肚脐正上方放置一本厚书；
 2. 全身彻底放松，慢慢用鼻腔吸气：观察书本是否随着小腹隆起而平稳抬升？
@@ -30,14 +45,13 @@
 3. 核心指令：想象你的声音气流让烛光微微弯曲倾斜，但**绝对不让烛火熄灭，也绝不让烛火剧烈抖动**；
 4. 听觉自查：声音音准是不是像一条笔直激光一样平稳穿透？
 
----
-
-## 三、训练动作与实操指南
-- 在 Pitchee 录音时，先深呼吸一口气沉丹田，把第一个音稳稳落在一个固定的音高点上；
-- 朗读整句话时，想象声音走在一条平坦宽阔的高架桥上，不要让它在每个字之间跳崖。
+### 步骤 3：长句架桥恒稳朗读法（Bridge Phonation）
+1. 在 Pitchee 录音时，先深呼吸一口气沉丹田，把第一个音稳稳落在一个固定的音高点上；
+2. 朗读整句话时，想象声音走在一条平坦宽阔的高架桥上，不要让它在每个字之间跳崖。
 
 ---
 
 ## 四、权威文献与延伸参考
+
 - **University of Sheffield**: 《Pitch Stability and Breath Control Practice》([链接](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources))
 - **TruVox**: 《Visual Pitch Contour and Steady Sustain Feedback》([链接](https://ceas5.uc.edu/transvoice))

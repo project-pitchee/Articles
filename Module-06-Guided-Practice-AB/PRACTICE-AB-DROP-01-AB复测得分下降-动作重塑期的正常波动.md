@@ -21,22 +21,33 @@
 
 ## 二、症状自查与代偿排查
 
-不要仅仅看单一的最终综合分，重点对比两个底层维度：
+### A/B 复测得分下降自查与代偿排查
+1. **“过度修正导致新代偿”排查（Over-Correction Compensation Check）**：
+   - 在录制 Take B 时，是否因为急于改正 Take A 的某个缺点（如“想让声音更亮”），而下意识做出了过度激进的动作（如瞬间死死掐紧咽喉、咬紧牙关）？
+   - 过度修正会引发新的颈外肌痉挛，导致自然度（Naturalness）指标直接跌落；
+2. **声带疲劳与气流枯竭自查（Acoustic Fatigue Check）**：
+   - 检查 Take B 录音时的呼吸状态：是否由于连录两遍导致后半句气息不足、声音出现毛糙断裂？
+   - 呼吸支撑不稳会直接扰乱声带微周期振动（Jitter / Shimmer 恶化）；
+3. **有效底层维度对比（Deep Metric Diagnosis）**：
+   - 不要仅仅看单一的最终综合分，重点对比两个底层维度：
+     - **对比自然度（Naturalness）**：如果 Take B 的综合分虽微降 5 分，但自然度大幅提升，说明喉咙获得了健康的松弛；
+     - **对比身体主观舒适感（Somatic Comfort）**：录制 Take B 时喉咙是更轻松还是更酸胀？若体感更顺畅，说明动作方向完全正确。
 
 ---
 
 ## 三、训练动作与实操指南
-1. **对比自然度（Naturalness）**：
-   - 如果 Take B 的音高虽微降了 10 Hz，但自然度从 60 飙升到了 82，说明你的喉咙获得了巨大的健康松弛，这是一个极其卓越的质的飞跃！
-2. **对比身体的主观舒适感（Somatic Comfort）**：
-   - 问自己：录制 Take B 时，喉咙是更轻松还是更酸痛？
-   - 如果 Take B 让你觉得“说起来更顺畅、完全不累”，请坚决在反馈中选择“更接近目标”，不要被单纯的算法微小波动绑架。
 
----
-
+### 突破 U 型曲线的复测重构实操
+1. **重置呼吸与吞咽复位（Reset & Swallow）**：
+   - 在录制 Take B 前，强制静止 10 秒，做一次深呼吸与轻柔空吞咽，让喉肌彻底归零；
+2. **“只改一个变量”法则（Single-Variable Iteration）**：
+   - 严禁在同一遍复测中试图同时修改音高、共鸣、咬字和语速；每次复测只专注微调一个单项指标；
+3. **微步渐进验证法（Micro-step Exploration）**：
+   - 降低动作幅度：只将新技巧尝试 30% 的力度，寻找新动作与旧肌肉记忆之间的平衡过渡点。
 
 ---
 
 ## 四、权威文献与延伸参考
+
 - **Pitchee 官方文档**: 《引导练习、复测比较与可信趋势》([链接](https://github.com/project-pitchee/Pitchee-iOS/blob/main/Docs/Guided-Practice.md))
 - **Vocal Congruence Project**: 《Tracking Changes Without Score Obsession》([链接](https://vocalcongruence.org/))

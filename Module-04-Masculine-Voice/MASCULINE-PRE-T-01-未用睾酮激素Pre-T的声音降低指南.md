@@ -19,10 +19,20 @@
 
 ## 二、症状自查与代偿排查
 
+### 未用激素发声代偿与生理疲劳排查
+1. **“硬挤低频破音”代偿排查（Laryngeal Scraping Strain Check）**：
+   - 试图强行压低音调时，声门是否发出粗糙干哑的沙砾感，说话 5 分钟后咽喉开始充血刺痛？
+   - Pre-T 阶段切忌通过暴力挤压杓状软骨去硬碰出低于解剖极限的超低音，这属于恶性机械代偿；
+2. **“舌根过度后压阻塞呼吸”排查（Pharyngeal Obstruction Check）**：
+   - 发声时是否有轻微呼吸困难感、吞咽困难或发音如嘴里含着滚烫热土豆般含混不清？
+   - 这表明误将“舌根向后过度堵死咽腔”当成了“扩大共鸣”，会导致第一共振峰恶化且发音含混；
+3. **基频与共鸣失调自测（Pitch-Resonance Mismatch Check）**：
+   - 在 Pitchee 录音中观察：如果基频在 150 Hz 附近，但 Standard 指标（共鸣对齐度）依然偏低，说明问题并不在于音调降得不够，而在于嘴唇外展与胸腔共鸣尚未打开。
 
 ---
 
 ## 三、训练动作与实操指南
+
 ### 技巧 1：下颌前伸微开与唇孔外展（Lip Protrusion & Lower Jaw Drop）
 - 声道物理长度不仅取决于喉头，还取决于**嘴唇向外延伸的距离**：
 1. 发声时，上下嘴唇稍微向外突出 3–5 毫米（如同轻发“乌（/u/）”音时的微噘唇）；
@@ -39,9 +49,7 @@
 
 ---
 
-
----
-
 ## 四、权威文献与延伸参考
+
 - **ASHA Practice Portal**: 《Voice Masculinization without Exogenous Androgens》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))
 - **University of Sheffield**: 《Pitch Lowering and Resonance Darkening Techniques》([链接](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources))

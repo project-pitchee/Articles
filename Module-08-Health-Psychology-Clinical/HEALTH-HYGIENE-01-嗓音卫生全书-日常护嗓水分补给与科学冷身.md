@@ -22,7 +22,6 @@
 ## 二、症状自查与代偿排查
 
 ### 隐患自查一：谢菲尔德大学反流管理守则（Reflux Management Advice）
-
 临床上，咽喉反流（LPR / 寂静反流）是导致跨性别练习者晨起声音沙哑、刺痛、异物感的最隐蔽主因：
 - **微量反流腐蚀**：夜间平躺时，胃酸与活性胃蛋白酶上行逆流，侵蚀杓状软骨及声带后联合黏膜，造成声带慢性水肿，严重破坏次日发声自然度；
 - **防反流三大铁律**：
@@ -30,12 +29,7 @@
   2. **调整睡眠物理倾角**：将床头抬高 10–15 厘米（或使用楔形防反流枕头），借助重力阻挡胃内容物倒流；
   3. **限制高风险刺激物**：减少高脂油炸食品、薄荷脑、烈酒、巧克力、浓茶及过量黑咖啡的摄入。
 
----
-
----
-
 ### 隐患自查二：根除暴力清嗓与两大替代性排痰法（Alternatives to Throat Clearing）
-
 频繁刻意清嗓（Throat Clearing）会让声带瞬间承受剧烈的高速撞击，加剧微黏膜充血水肿：
 1. **强力吞咽法（Hard Swallow Technique）**：
    - 当感到喉头有痰或异物感时，含一口温水，低头贴近胸口，用力做一次大口吞咽；咽肌强力蠕动能安全带走分泌物；
@@ -61,5 +55,6 @@
 ---
 
 ## 四、权威文献与延伸参考
+
 - **University of Sheffield**: 《Vocal Hygiene Advice & Reflux Management Guidelines》([链接](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources))
 - **ASHA Practice Portal**: 《Voice Hygiene and Vocal Preservation Protocols》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))

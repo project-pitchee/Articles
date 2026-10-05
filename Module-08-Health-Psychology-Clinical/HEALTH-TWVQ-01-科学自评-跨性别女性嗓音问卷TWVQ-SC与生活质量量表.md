@@ -60,5 +60,6 @@ Wang 等人（2022）在发表于 *JSLHR* 的研究中，针对 260 名中国跨
 ---
 
 ## 四、权威文献与延伸参考
+
 - **ASHA JSLHR 原始论文**: [https://pubs.asha.org/doi/10.1044/2022_JSLHR-21-00685](https://pubs.asha.org/doi/10.1044/2022_JSLHR-21-00685)
 - **ASHA Practice Portal**: 《Self-Assessment and Quality-of-Life Measures in Voice Modification》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))

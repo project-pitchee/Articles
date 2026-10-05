@@ -23,13 +23,23 @@
 
 ## 二、症状自查与代偿排查
 
-### 步骤 1：“呵气变声”（H-to-Vowel Glide）
-1. 先发出轻柔长呼气：“Haaaaa……”（此时无声带振动）；
-2. 保持气流匀速流淌，极其轻柔地将声带边缘靠拢，渐渐过渡为微弱实声：“Haaa---ahhh”；
+### 声门闭合与起音模式自查排查
+1. **“硬碰撞（Hard Attack）”代偿排查**：
+   - 朗读以元音开头的字（如“阿姨”、“爱”、“安”）：发音前是否喉部先死死闭气、随后猛烈炸开发声？
+   - 频繁硬起音会导致声带游离缘微充血，算法波形会呈现尖锐杂乱的瞬态脉冲；
+2. **“过度漏气（Breathiness）”代偿排查**：
+   - 手背放在唇前 3 厘米处发单音：手背是否感受到持续猛烈的高速热风喷射？
+   - 单音维持时间若小于 5 秒，说明声门后部（软骨间部）存在明显闭合漏气缝隙（Glottal Chink）；
+3. **耳语代偿排查（Whispering Trap Check）**：
+   - 自查是否因为害怕自己的“男声”而长期使用气声耳语说话？耳语时声带前端闭合、后端大开，声带肌被迫长期处于非自然剪切受拉状态，极易导致失声。
 
 ---
 
 ## 三、训练动作与实操指南
+
+### 步骤 1：“呵气变声”平滑过渡法（H-to-Vowel Glide）
+1. 先发出轻柔长呼气：“Haaaaa……”（此时无声带振动）；
+2. 保持气流匀速流淌，极其轻柔地将声带边缘靠拢，渐渐过渡为微弱实声：“Haaa---ahhh”；
 3. 仔细感受声音从纯气流平滑变身为轻柔实音的临界点；
 4. 这个临界点就是最健康的“声门轻闭合点”。
 
@@ -45,9 +55,7 @@
 
 ---
 
-
----
-
 ## 四、权威文献与延伸参考
+
 - **ASHA Practice Portal**: 《Phonation Onset Strategies in Voice Therapy》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))
 - **TransNavi**: 《Soft Vocal Cord Closure without Strain》([链接](https://transnavi.jp/en/voice/))

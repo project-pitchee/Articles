@@ -37,6 +37,7 @@
 ---
 
 ## 三、训练动作与实操指南
+
 - 即使触发了加分，也绝不可在疲劳状态下连续大声朗读超过 20 分钟；
 - 若出现咽干、喉部微痛或吞咽异物感，立即饮用常温温水，暂停高阶练习；
 - 建议将 App 练习与日常录音备忘录结合，每录制一段长篇朗读，使用同句 A/B 回听功能对比语调匀质性。
@@ -44,5 +45,6 @@
 ---
 
 ## 四、权威文献与延伸参考
+
 - **Sheffield Trans Voice Café**: 《Everyday Phrases & Paragraph Hierarchy Practice》([链接](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources))
 - **ASHA Practice Portal**: 《Gender Affirming Voice and Communication - Transfer and Maintenance》([链接](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/))

@@ -43,5 +43,6 @@
 ---
 
 ## 四、权威文献与延伸参考
+
 - **Titze, I. R.** (1994). *Principles of Voice Production: Aerodynamic strain during whispering.*
 - **Vocal Congruence Project**: 《Private Practice without Whispering》([链接](https://vocalcongruence.org/))
