@@ -22,9 +22,11 @@ DOCS_CANDIDATES = [
 
 LIBRARY_DOCS_DIR = None
 for cand in DOCS_CANDIDATES:
-    if os.path.exists(cand) and len(glob.glob(os.path.join(cand, "**", "*.md"), recursive=True)) == 49:
-        LIBRARY_DOCS_DIR = cand
-        break
+    if os.path.exists(cand):
+        md_count = len([f for f in glob.glob(os.path.join(cand, "**", "*.md"), recursive=True) if not f.endswith("README.md")])
+        if md_count == 49:
+            LIBRARY_DOCS_DIR = cand
+            break
 
 if not LIBRARY_DOCS_DIR:
     LIBRARY_DOCS_DIR = LOCAL_DOCS_DIR
@@ -266,7 +268,7 @@ def parse_markdown(filepath):
     }
 
 def main():
-    md_files = sorted(glob.glob(os.path.join(LIBRARY_DOCS_DIR, "**", "*.md"), recursive=True))
+    md_files = sorted([f for f in glob.glob(os.path.join(LIBRARY_DOCS_DIR, "**", "*.md"), recursive=True) if not f.endswith("README.md")])
     articles = []
     for f in md_files:
         articles.append(parse_markdown(f))
