@@ -9,6 +9,7 @@ import os
 import re
 import json
 import glob
+from datetime import datetime, timezone
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 if os.path.exists(os.path.join(SCRIPT_DIR, "Module-01-Engine-Rules")):
@@ -21,33 +22,17 @@ if os.path.exists(os.path.join(SCRIPT_DIR, "Module-01-Engine-Rules")):
 else:
     REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     LOCAL_DOCS_DIR = os.path.join(REPO_ROOT, "Docs", "Voice-Training-Library")
-    STANDALONE_ARTICLES_DIR = os.environ.get("ARTICLES_DIR") or os.path.join(os.path.dirname(REPO_ROOT), "Articles")
-
-    DOCS_CANDIDATES = [
-        LOCAL_DOCS_DIR,
-        STANDALONE_ARTICLES_DIR,
-        os.path.join(REPO_ROOT, "Dependencies", "Articles")
-    ]
-
-    LIBRARY_DOCS_DIR = None
-    for cand in DOCS_CANDIDATES:
-        if os.path.exists(cand):
-            md_count = len([f for f in glob.glob(os.path.join(cand, "**", "*.md"), recursive=True) if not f.endswith("README.md")])
-            if md_count == 49:
-                LIBRARY_DOCS_DIR = cand
-                break
-
-    if not LIBRARY_DOCS_DIR:
-        LIBRARY_DOCS_DIR = LOCAL_DOCS_DIR
+    # Only use the requested source checkout; do not silently read or overwrite a sibling repository.
+    LIBRARY_DOCS_DIR = os.path.abspath(os.environ.get("ARTICLES_DIR") or LOCAL_DOCS_DIR)
 
     RESOURCES_DIR = os.path.join(REPO_ROOT, "Resources", "VoiceTrainingLibrary")
     os.makedirs(RESOURCES_DIR, exist_ok=True)
 
 SECTION_ICON_MAP = {
-    "一、声学机制与算法原理": "gearshape.2.fill",
-    "二、症状自查与代偿排查": "stethoscope",
-    "三、训练动作与实操指南": "figure.run",
-    "四、权威文献与延伸参考": "books.vertical.fill"
+    "一、理解这项主题": "gearshape.2.fill",
+    "二、练习前的观察": "stethoscope",
+    "三、可尝试的方法": "figure.run",
+    "四、依据与延伸阅读": "books.vertical.fill"
 }
 
 def icon_for_heading(heading):
@@ -242,6 +227,8 @@ def parse_markdown(filepath):
 
 def main():
     md_files = sorted([f for f in glob.glob(os.path.join(LIBRARY_DOCS_DIR, "**", "*.md"), recursive=True) if not f.endswith("README.md")])
+    if len(md_files) != 49:
+        raise ValueError(f"Expected 49 articles in {LIBRARY_DOCS_DIR}, found {len(md_files)}")
     articles = []
     for f in md_files:
         articles.append(parse_markdown(f))
@@ -250,7 +237,7 @@ def main():
 
     output_payload = {
         "schemaVersion": "1.0.0",
-        "generatedAt": "2026-10-05T02:30:00Z",
+        "generatedAt": datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z"),
         "description": "Pitchee iOS App Embedded Voice Training Text Resource Library",
         "totalArticles": len(articles),
         "articles": articles
@@ -288,10 +275,10 @@ def main():
         json.dump(rule_matrix, f, ensure_ascii=False, indent=2)
     print(f"Wrote matching matrix to {matrix_path}")
 
-    # Write mirror JSON copies to Docs/Voice-Training-Library and standalone Articles directory
-    target_mirror_dirs = [LOCAL_DOCS_DIR]
-    if os.path.exists(STANDALONE_ARTICLES_DIR) and os.path.abspath(STANDALONE_ARTICLES_DIR) != os.path.abspath(LOCAL_DOCS_DIR):
-        target_mirror_dirs.append(STANDALONE_ARTICLES_DIR)
+    # Mirror only into the source actually used for this build.
+    target_mirror_dirs = []
+    if os.path.abspath(LIBRARY_DOCS_DIR) != os.path.abspath(RESOURCES_DIR):
+        target_mirror_dirs.append(LIBRARY_DOCS_DIR)
 
     for mdir in target_mirror_dirs:
         if os.path.exists(mdir):
